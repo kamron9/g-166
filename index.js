@@ -214,4 +214,3 @@
 //array
 let arr = ['Bobur', 'Shahzod', 'Bektemir']
 
-console.log(arr[0][2]);
